@@ -23,6 +23,12 @@
 			text-shadow:0 0 10px black;
 			color:#00ffff;
 			font-size:2em;
+			cursor:pointer;
+			-webkit-user-select:none;
+			-moz-user-select:none;
+			-ms-user-select:none;
+			o-user-select:none;
+			user-select:none;
 		}
 	</style>
 
@@ -45,7 +51,7 @@
 </head>
 <body onload = "tellStory();">
 <p class="title">LEAGUE OF LEDGERS STORY MAKER YAY</p>
-<p id = "story" class="story" onclick="tellStory();">Loading...</p>
+<p unselectable="on" id = "story" class="story" onclick="tellStory();">Loading...</p>
 
 <div style = "position:fixed; bottom:5px; right:5px; color:lime">Beautiful website &#169;2013 <a href="http://www.google.com/" style="color:lime;">Sir_Tiffy</a></div>
 </body>
