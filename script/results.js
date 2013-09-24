@@ -1,0 +1,1 @@
+var results=["won","lost","tied","ragequitted","surrendered"];

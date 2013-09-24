@@ -1,0 +1,1 @@
+var outcomes=["lived","died","lost","won","got a kill","got a doublekill","got a triplekill","got a quadrakill","got a pentakill","got a legendary kill"];

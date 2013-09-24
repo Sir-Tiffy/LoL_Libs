@@ -1,0 +1,1 @@
+var activities=["laned","farmed","jungled","backdoored","pushed","killed","ganked","ignored","focused on","reported","soloed"];

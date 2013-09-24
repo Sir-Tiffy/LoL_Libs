@@ -1,0 +1,1 @@
+var places=["in top lane","in mid lane","in bot lane","in the jungle","at blue base","at purple base","during champion select","in the Crystal Scar","in the Twisted Treeline","in the Howling Abyss","in Summoner's Rift","in the Tribunal","at Dragon","at Baron"];
