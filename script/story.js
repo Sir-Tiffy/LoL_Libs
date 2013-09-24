@@ -19,7 +19,7 @@ function tellStory(){
 	}
 	result = result.replace("%s",randList(names));
 	document.getElementById("story").innerHTML =
-	"{0} I {1} {2} {3} as {4} to get {5},\
+	"{0} I {1} {2} {3} as {4} to get {5},<br>\
 	 when suddenly {6} appeared and used {7}.<br>\
 	 I didn't want to use my {8} so I used {9} and I {10}.<br>\
 In the end we {11} because we {12} {13}.<br>\
