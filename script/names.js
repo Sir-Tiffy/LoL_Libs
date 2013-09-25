@@ -1,1 +1,0 @@
-var names = ["HotshotGG","Reginald","Dyrus","Xpecial","Bigfatlp","saintvicious","voyboy","Scarra","Alex Ich","Phreak","Morello","Team Siren","Riot","Draven","Renekton Bot","Shaella"];

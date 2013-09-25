@@ -1,1 +1,0 @@
-var spells=["Barrier","Clairvoyance","Clarity","Cleanse","Exhaust","Flash","Garrison","Ghost","Heal","Ignite","Revive","Smite","Teleport"];

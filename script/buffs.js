@@ -1,1 +1,0 @@
-var buffs=["EXP","gold","elo","red buff","blue buff","Baron buff"];

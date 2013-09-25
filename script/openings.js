@@ -1,1 +1,0 @@
-var openings = ["So","This one time","Yesterday","In this dream I had","In my fanfic","During downtime","During LCS","When I was playing in MLG","When I was playing in ranked","When I was playing a bot game"];
